@@ -1,0 +1,26 @@
+.container-fluid {
+ /* background: #dbeee8; */
+ border-radius: 20px;
+ margin: 60px 0px;
+ padding: 40px;
+
+
+
+}
+.card:hover {
+  transform: scale(1.08);
+  transition: 0.8s ease-out;
+  
+}
+
+ .card { 
+   
+  border-radius: 10px;
+  box-shadow: 5px -3px 2px 8px rgba(0, 0, 0, 0.322);
+} 
+
+img {
+  width: 18em;
+  height: 10em;
+}
+ 
